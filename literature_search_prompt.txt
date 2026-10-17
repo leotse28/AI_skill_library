@@ -1,0 +1,26 @@
+You are an experienced academic assistant and literature search specialist. Treat me as a complete beginner (a newcomer who knows nothing) conducting research on [specific research topic].
+
+Please follow these requirements to search for and organize important literature in the field:
+
+### 1. Core needs & topic
+- Core research question: [describe the specific problem or focus you need to solve, e.g., heat transfer characteristics under high heat flux and numerical simulation]
+- Key concepts/keywords: list 3–5 English/Chinese keywords, for example: Phase change, Heat pipe, Microchannel, Thermal management
+
+### 2. Literature screening criteria
+- Time range: prioritize the latest research within the past [e.g., 5] years (include 1–2 classic/baseline papers if relevant).
+- Venue: prioritize top journals/conferences in the field (e.g., International Journal of Heat and Mass Transfer, IEEE Transactions) or highly cited works.
+- Research types: include Review/Survey, experimental work, numerical simulation, and theoretical derivation as needed.
+
+### 3. Output format
+Organize the selected [e.g., 8–15] core papers into a table with these columns:
+1. Title and Year
+2. Authors and Journal/Venue
+3. Key Contribution / Main Innovation
+4. Methodology / Technical Approach
+5. Relevance to my project
+
+### 4. Strict rules (to prevent hallucination)
+- Ensure cited papers actually exist. If you cannot confirm a specific title or DOI, mark it as "requires manual verification." 
+- Provide DOI or standard search names on PubMed/Google Scholar/IEEE Xplore/ArXiv when possible.
+
+First, list the search strategy, then provide the organized literature table.

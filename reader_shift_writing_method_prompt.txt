@@ -1,0 +1,24 @@
+Please use the "Reader Shift Writing Method" to help me rewrite the following article.
+Rewrite it in the first person.
+
+Requirements:
+1. Diagnosis:
+   - What are the original text's core meaning, values, and methodology?
+   - Where does the reader start when they click into the article? What are their knowledge, emotions, situation, biases, and expectations?
+   - After reading, what forward step do I want readers to take?
+   - What is missing in the middle? Misunderstandings, evidence, stories, steps, or emotional transitions?
+   - Is the title honest? Is it exaggerated beyond what the content supports?
+
+2. Rewriting:
+   - Title: honestly describe the intended shift, not exaggerated.
+   - Opening: connect to the reader's starting point.
+   - Middle: fill the gaps the reader needs to move from start to finish.
+   - Ending: land on an achievable reader outcome.
+   - Preserve the original author's intent, tone, and core insights.
+   - Do not force a sentimental uplift or excessive positivity.
+
+3. Final output:
+   - Diagnosis
+   - Rewriting strategy
+   - Rewritten body
+   - Quality checklist
