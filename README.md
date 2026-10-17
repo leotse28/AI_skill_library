@@ -1,5 +1,7 @@
 # AI_skill_library / AI 技能库
 
+![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
+
 简短说明（中文）
 本仓库是我基于工作需要整理的个人技能库，包含各类与人工智能、机器学习、自然语言处理及相关工程实践相关的示例、脚本与工具。
 
@@ -70,13 +72,13 @@ This repo aims to modularize and document AI-related skills accumulated in daily
 
 ## 贡献 / Contributing
 欢迎贡献！建议的贡献流程：
-1. Fork 仓库并创建分支 (feature/xxx 或 fix/xxx)  
-2. 提交代码并发起 PR，描述变更与测试步骤  
+1. Fork 仓库并创建分支 (feature/xxx 或 fix/xxx)
+2. 提交代码并发起 PR，描述变更与测试步骤
 3. 我会在 PR 中进行审查，讨论后合并
 
 Contributions are welcome! Suggested flow:
-1. Fork and create a branch (feature/xxx or fix/xxx)  
-2. Commit changes and open a PR with description and test steps  
+1. Fork and create a branch (feature/xxx or fix/xxx)
+2. Commit changes and open a PR with description and test steps
 3. I will review the PR and merge after discussion
 
 请遵守基本的代码风格与提交规范，并尽量补充文档或示例以便他人复现。
@@ -86,9 +88,13 @@ Please follow basic code/style and commit conventions, and add docs/examples whe
 ---
 
 ## 许可证 / License
-本仓库默认未指定许可证 — 如果你希望他人以特定方式使用仓库内容，请在此添加合适的许可证（如 MIT、Apache-2.0 等）。
+本仓库采用 MIT 许可证（MIT License）。有关许可的完整条款请参见仓库根目录�� LICENSE 文件：
 
-No license specified by default — if you want others to use the repo under a specific license, add one here (e.g., MIT, Apache-2.0).
+- 中文说明：本项目在 MIT 许可证下发布，允许以几乎不受限制的方式使用、复制、修改、合并、发布、分发、再授权及/或出售软件副本，使用时须保留作者声明和许可声明。详见 LICENSE 文件。
+
+- English: This project is licensed under the MIT License. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, provided that you include the copyright and license notice in all copies or substantial portions of the Software. See the LICENSE file in the repository root for full text.
+
+LICENSE 文件：./LICENSE
 
 ---
 
