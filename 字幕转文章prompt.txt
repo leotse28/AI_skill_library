@@ -1,3 +1,0 @@
-此文件已重命名为：字幕转文章prompt_Subtitles_to_Article_prompt.txt
-This file has been renamed to: 字幕转文章prompt_Subtitles_to_Article_prompt.txt
-请查看新文件 / Please check the new file.
